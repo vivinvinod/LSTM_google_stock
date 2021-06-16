@@ -36,4 +36,4 @@ After the model has been trained, we use a ‘lag’ of 60 days to forecast for 
 
 The output closely resembles, if not entirely, the actual google open stock prices. This is a powerful practical example of the possibility of use of DL in finances. The best part, is that one doesn’t need to know much about neither finance nor the mathematics behind neural networks to implement a marketable model. 
 
-**a^2-5
+$a\^2-5$
